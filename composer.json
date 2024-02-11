@@ -1,0 +1,18 @@
+{
+  "require": {
+    "mpdf/mpdf": "dev-development",
+    "bacon/bacon-qr-code": "dev-master",
+    "mpdf/qrcode": "^1.2",
+    "chillerlan/php-qrcode": "^5"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/boonkerz/mpdf.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/boonkerz/BaconQrCode.git"
+    }
+  ]
+}
